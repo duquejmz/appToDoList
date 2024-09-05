@@ -13,19 +13,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimen\\OneDrive\\Documentos\\SENA\\Practicas\\Talleres\\appToDoList\\appToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\jimen\\Source\\Repos\\duquejmz\\appToDoList\\appToDoList.csproj",
       "projectName": "appToDoList",
-      "projectPath": "C:\\Users\\jimen\\OneDrive\\Documentos\\SENA\\Practicas\\Talleres\\appToDoList\\appToDoList.csproj",
+      "projectPath": "C:\\Users\\jimen\\Source\\Repos\\duquejmz\\appToDoList\\appToDoList.csproj",
       "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimen\\OneDrive\\Documentos\\SENA\\Practicas\\Talleres\\appToDoList\\obj\\",
+      "outputPath": "C:\\Users\\jimen\\Source\\Repos\\duquejmz\\appToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
